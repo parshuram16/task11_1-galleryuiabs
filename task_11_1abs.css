@@ -1,0 +1,198 @@
+.bg-container {
+    background-color: aqua;
+    height: 100vh;
+    border: 2px solid black;
+    
+
+}
+
+.head {
+    margin-left: 340px;
+    margin-top: 80px;
+    text-decoration: underline;
+    color: red;
+}
+
+.card {
+    height: 50px;
+    width: 50px;
+    
+    border: 2px solid black;
+    display: inline-block;
+
+    border-radius: 8px;
+
+
+}
+
+.cimag1 {
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+
+.cimag2 {
+    position: absolute;
+    top: 150px;
+    left: 455px;
+}
+
+.cimag3 {
+    position: absolute;
+    top: 150px;
+    left: 510px;
+}
+
+.cimag4 {
+    position: absolute;
+    top: 150px;
+    left: 565px;
+}
+
+.cimag5 {
+    position: absolute;
+    top: 150px;
+    left: 620px;
+}
+
+
+
+.dimag1 {
+    position: absolute;
+    top: 205px;
+    left: 400px;
+}
+
+.dimag2 {
+    position: absolute;
+    top: 205px;
+    left: 455px;
+}
+
+.dimag3 {
+    position: absolute;
+    top: 205px;
+    left: 510px;
+}
+
+.dimag4 {
+    position: absolute;
+    top: 205px;
+    left: 565px;
+}
+
+.dimag5 {
+    position: absolute;
+    top: 205px;
+    left: 620px;
+}
+
+
+
+.eimag1 {
+    position: absolute;
+    top: 260px;
+    left: 400px;
+}
+
+.eimag2 {
+    position: absolute;
+    top: 260px;
+    left: 455px;
+}
+
+.eimag3 {
+    position: absolute;
+    top: 260px;
+    left: 510px;
+}
+
+.eimag4 {
+    position: absolute;
+    top: 260px;
+    left: 565px;
+}
+
+.eimag5 {
+    position: absolute;
+    top: 260px;
+    left: 620px;
+}
+
+
+
+.fimag1 {
+    position: absolute;
+    top: 315px;
+    left: 400px;
+}
+
+.fimag2 {
+    position: absolute;
+    top: 315px;
+    left: 455px;
+}
+
+.fimag3 {
+    position: absolute;
+    top: 315px;
+    left: 510px;
+}
+
+.fimag4 {
+    position: absolute;
+    top: 315px;
+    left: 565px;
+}
+
+.fimag5 {
+    position: absolute;
+    top: 315px;
+    left: 620px;
+}
+
+
+
+.gimag1 {
+    position: absolute;
+    top: 370px;
+    left: 400px;
+}
+
+.gimag2 {
+    position: absolute;
+    top: 370px;
+    left: 455px;
+}
+
+.gimag3 {
+    position: absolute;
+    top: 370px;
+    left: 510px;
+}
+
+.gimag4 {
+    position: absolute;
+    top: 370px;
+    left: 565px;
+}
+
+.gimag5 {
+    position: absolute;
+    top: 370px;
+    left: 620px;
+}
+
+
+
+
+
+
+
+
+
+.img1 {
+    height: 50px;
+    width: 50px;
+}
+
